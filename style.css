@@ -1,0 +1,49 @@
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.5;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.2px;
+}
+
+/*
+#root{
+    width: 960px;
+    height: 800px;
+    background-color: #f7f7f7;
+    margin: 25px auto;
+}
+
+.node {
+    stroke: #fff;
+    stroke-width: 1.5px;
+    cursor: move;
+    fill: beige;
+}
+
+.group {
+    stroke: #fff;
+    stroke-width: 1.5px;
+    cursor: move;
+    opacity: 0.7;
+}
+
+.link {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3px;
+    opacity: 0.7;
+    marker-end: url(#end-arrow);
+}
+
+.label {
+    fill: black;
+    font-family: Verdana;
+    font-size: 14px;
+    text-anchor: middle;
+    cursor: move;
+}
+*/
+
